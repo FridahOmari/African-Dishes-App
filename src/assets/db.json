@@ -1,0 +1,51 @@
+[
+  {
+    "dish": "Wali",
+    "image": "/assets/wali.jpeg",
+    "ingredients": ["Water", "Oil", "Salt", "Rice"],
+    "preparations": [
+      {
+        "step": "cewfeef3434443443g4g43g4g4"
+      },
+      {
+        "step": "cewfeef3434443443g4g43g4g4"
+      },
+      {
+        "step": "cewfeef3434443443g4g43g4g4"
+      },
+      {
+        "step": "cewfeef3434443443g4g43g4g4"
+      },
+      {
+        "step": "cewfeef3434443443g4g43g4g4"
+      }
+    ]
+  },
+  {
+    "dish": "Wali",
+    "image": "/assets/wali.jpeg",
+    "ingredients": [
+        "Water",
+        "Oil",
+        "Salt",
+        "Rice"
+    ],
+    "preparations": [
+        {
+            "step": "cewfeef3434443443g4g43g4g4"
+        },
+        {
+            "step": "cewfeef3434443443g4g43g4g4"
+        },
+        {
+            "step": "cewfeef3434443443g4g43g4g4"
+        },
+        {
+            "step": "cewfeef3434443443g4g43g4g4"
+        },
+        {
+            "step": "cewfeef3434443443g4g43g4g4"
+        }
+    ]
+  }
+]

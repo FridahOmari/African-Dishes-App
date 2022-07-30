@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap');
+
+
+
+.app{
+  min-height: 100vh;
+}
+.app-header {
+  text-align: center;
+}
+
+.item {
+  color: black;
+}
+
+img  {
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+s
+.item-link {
+  text-decoration: none;
+  color: black;
+}
