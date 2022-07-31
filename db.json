@@ -2,7 +2,7 @@
   "recipes": [
     {
       "dish": "Wali wa nazi",
-      "image": "./images/wali.webp",
+      "image": "./assets/images/wali.webp",
       "ingredients": ["3 cups water", "Oil", "Salt", "1 cup coconut milk","1 cup Rice"],
       "preparations": [
         {
@@ -24,7 +24,7 @@
     },
     {
       "dish": "Ugali",
-      "image": "./images/ugali.jpg",
+      "image": "./assets/images/ugali.jpg",
       "ingredients": ["Water", "Maize meal"],
       "preparations": [
         {
@@ -46,7 +46,7 @@
     },
     {
       "dish": "Choma",
-      "image": "./images/choma.jpg",
+      "image": "./assets/images/choma.jpg",
       "ingredients": ["Goat or beef meat", "Oil", "Salt", "Warm water"],
       "preparations": [
         {
