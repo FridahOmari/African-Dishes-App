@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import ListItem from "../components/ListItem";
 import AddButton from "../components/AddButton";
-import Container from "react-bootstrap/Container";
-import { Row, Col, Grid } from "react-bootstrap";
 
 const Recipes = () => {
   let [recipes, setRecipes] = useState([]);
@@ -12,7 +10,7 @@ const Recipes = () => {
   }, []);
 
   let getRecipes = async () => {
-    let response = await fetch("http://127.0.0.1:5000/recipes/");
+    let response = await fetch("https://dishes-of-africa.herokuapp.com/recipes");
     let data = await response.json();
     setRecipes(data);
   };
